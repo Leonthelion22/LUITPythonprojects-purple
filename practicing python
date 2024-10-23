@@ -1,0 +1,32 @@
+turkeycheese = 'Wasup, Trevy how yuh feelin'
+print(turkeycheese)
+apple = 'smoke'
+print(apple)
+lavell = ' top Devops Cloud Engineeer '
+print(lavell)
+trevor = 'top Devops in his company'
+leon = 'top Devops'
+print (lavell, trevor, leon, )
+
+age = 99
+age = age + 1
+print(age)
+
+print('How are you trevor ?')
+user_name = input()
+print('Hello,', user_name)
+
+height_cm = float(input('Height converter: enter your height in cm:'))
+print('Your height in feet is:', height_cm / 30.48 )
+
+
+year_born = int(input('What year were you born?'))
+print('In 2100, you will be', 2100 - year_born, 'years old, provided you live this long!')
+
+hours = float(input('How many hours did you work last month? '))
+rate = float(input('What is your hourly rate? '))
+     
+print('Last month, you earned', hours * rate ,'dollars')
+
+print('Hello, World!', end='.')
+print('Python is speaking!')
